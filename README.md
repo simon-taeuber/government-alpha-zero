@@ -6,14 +6,14 @@ Why "Alpha Zero"? An alpha value of zero defines the opacity as transparent - th
 As a first use-case, we are developing a set of tools to scrape, clean, and visualise data from public/official/governmental
 sources, taking the Province of Chubut in Argentina as an example.
 
-The main scripts and features at this point are:__
-> 100% > Master Scraper: getting data from openly accessible sources__
-> work in progress > Master Cleaner: shaping and cleaning the raw data into a master database (csv & sql)__
+The main scripts and features at this point are:  
+> 100% > Master Scraper: getting data from openly accessible sources  
+> work in progress > Master Cleaner: shaping and cleaning the raw data into a master database (csv & sql)  
 
 
-Next steps:__
-> Master Scrambler: anonymising the master database and creating a shareable master_anon_db (sql)__
-> Automisation monthly__
-> Visualisation (Matplotlib, SeabornPlotly/Dash, Shiny)__
-> Web Publication of first results__
-> Interactive Web App (Streamlit, Dash)__
+Next steps:  
+> Master Scrambler: anonymising the master database and creating a shareable master_anon_db (sql)  
+> Automisation monthly  
+> Visualisation (Matplotlib, SeabornPlotly/Dash, Shiny)  
+> Web Publication of first results  
+> Interactive Web App (Streamlit, Dash)  
